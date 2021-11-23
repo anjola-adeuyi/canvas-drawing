@@ -8,8 +8,8 @@
 canvas {
     margin-top: 50px;
     border: 1px solid black;
-    width: 560px;
-    height: 360px;
+    width: 80vw;
+    height: 70vh;
 }
 
 h2 { 
