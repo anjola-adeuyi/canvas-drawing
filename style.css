@@ -6,7 +6,7 @@
 }
 
 canvas {
-    margin: 50px auto;
+    margin-top: 50px;
     border: 1px solid black;
     width: 560px;
     height: 360px;
